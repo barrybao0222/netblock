@@ -1,0 +1,10 @@
+﻿# 编译产物
+dist/*.exe.bak
+
+# 本地/临时
+build/*.log
+build/s*.png
+build/shot*.png
+bin/
+obj/
+.vs/
